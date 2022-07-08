@@ -1,4 +1,5 @@
-Predicting Housing Prices using Machine Learning¶
+# Predicting Housing Prices using Machine Learning
+
 This notebook looks into using various Pythong-based machine learning and data science libraries in an attempt to build a machine learning model capable of predictig the median home value for a home in a Calfornian suburb.
 
 This dataset was obtained from the StatLib repository. https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html. It can be downloaded/loaded using the sklearn.datasets.fetch_california_housing function.
